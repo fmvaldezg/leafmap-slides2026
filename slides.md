@@ -22,7 +22,7 @@ record: false
 routerMode: hash
 css: unocss
 highlighter: shiki
-download: "https://raw.githubusercontent.com/fmvaldezg/field_data_slides/main/slides.pdf"
+download: "https://github.com/fmvaldezg/leafmap-slides2026/raw/refs/heads/main/slides.pdf"
 
 ---
 
@@ -124,7 +124,7 @@ layout: two-cols
 pip install leafmap geopandas pandas jupyterlab
 ```
 
-3. Download the [workshop files](https://raw.githubusercontent.com/fmvaldezg/leafmap-slides2026/workshop_files.zip)
+3. Download the [workshop files](https://github.com/fmvaldezg/leafmap-slides2026/raw/refs/heads/main/workshop_files.zip)
 
 4. Launch and test Jupyter Lab
    
